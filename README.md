@@ -17,10 +17,12 @@ The aim of simulating DNS using UDP sockets is to create a basic DNS server that
 Enter a loop to continuously listen for incoming UDP messages.
 Receive DNS Query:
 When a DNS query is received, extract the domain name from the received data.
+<BR>
 4.Check Domain-to-IP Mapping:
 Check if the received domain name exists in the predefined mapping.
 If it does, retrieve the corresponding IP address.
 If it doesn't, prepare an error response.
+<BR>
 5.Send DNS Response:
 <BR>
 If the domain is found, send the IP address back to the client.
