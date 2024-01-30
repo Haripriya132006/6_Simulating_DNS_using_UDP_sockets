@@ -37,4 +37,4 @@ Close the Server:
 ## PROGRAM
 ## OUPUT
 ## RESULT
-Thus the Experiment implemented suucessfully
+Thus the Experiment implemented sucessfully
